@@ -7,8 +7,7 @@ BOOTLOADER_SIZE = 6144
 
 # Build Options
 #   change yes to no to disable
-#
-VIA_ENABLE = yes
+VIA_ENABLE = yes            # Enable VIA Support
 BOOTMAGIC_ENABLE = yes      # Enable Bootmagic Lite
 MOUSEKEY_ENABLE = yes          # Mouse keys
 EXTRAKEY_ENABLE = yes          # Audio control and System control
